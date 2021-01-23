@@ -1,0 +1,13 @@
+C:\Users\justi\source\repos\Payroll\PayrollApp\PayrollApp\bin\Debug\netcoreapp3.1\PayrollApp.exe
+C:\Users\justi\source\repos\Payroll\PayrollApp\PayrollApp\bin\Debug\netcoreapp3.1\PayrollApp.deps.json
+C:\Users\justi\source\repos\Payroll\PayrollApp\PayrollApp\bin\Debug\netcoreapp3.1\PayrollApp.runtimeconfig.json
+C:\Users\justi\source\repos\Payroll\PayrollApp\PayrollApp\bin\Debug\netcoreapp3.1\PayrollApp.runtimeconfig.dev.json
+C:\Users\justi\source\repos\Payroll\PayrollApp\PayrollApp\bin\Debug\netcoreapp3.1\PayrollApp.dll
+C:\Users\justi\source\repos\Payroll\PayrollApp\PayrollApp\bin\Debug\netcoreapp3.1\PayrollApp.pdb
+C:\Users\justi\source\repos\Payroll\PayrollApp\PayrollApp\obj\Debug\netcoreapp3.1\PayrollApp.csprojAssemblyReference.cache
+C:\Users\justi\source\repos\Payroll\PayrollApp\PayrollApp\obj\Debug\netcoreapp3.1\PayrollApp.AssemblyInfoInputs.cache
+C:\Users\justi\source\repos\Payroll\PayrollApp\PayrollApp\obj\Debug\netcoreapp3.1\PayrollApp.AssemblyInfo.cs
+C:\Users\justi\source\repos\Payroll\PayrollApp\PayrollApp\obj\Debug\netcoreapp3.1\PayrollApp.csproj.CoreCompileInputs.cache
+C:\Users\justi\source\repos\Payroll\PayrollApp\PayrollApp\obj\Debug\netcoreapp3.1\PayrollApp.dll
+C:\Users\justi\source\repos\Payroll\PayrollApp\PayrollApp\obj\Debug\netcoreapp3.1\PayrollApp.pdb
+C:\Users\justi\source\repos\Payroll\PayrollApp\PayrollApp\obj\Debug\netcoreapp3.1\PayrollApp.genruntimeconfig.cache

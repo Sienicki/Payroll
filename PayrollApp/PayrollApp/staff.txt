@@ -1,0 +1,4 @@
+James, Manager
+Mary, Manager
+John, Admin
+Patricia, Admin

@@ -32,11 +32,11 @@ namespace PayrollApp
 
                 try
                 {
-                    year = Convert.ToInt32(Console.ReadLine());
+                    month = Convert.ToInt32(Console.ReadLine());
 
                     if (month < 1 || month > 12)
                     {
-                        Console.WriteLine("Month must be frmo 1 to 12. Please try again.");
+                        Console.WriteLine("Month must be from 1 to 12. Please try again.");
                         month = 0;
                     }
                 }

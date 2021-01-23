@@ -11,7 +11,7 @@ namespace PayrollApp
         {
             List<Staff> myStaff = new List<Staff>();
             string[] result = new string[2];
-            string path = "staff.txt:";
+            string path = "staff.txt";
             string[] separator = { ", " };
 
             if (File.Exists(path))
